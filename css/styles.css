@@ -1,0 +1,15 @@
+.btnComp{
+    background-color: red;
+    padding: 16px 61px 16px 61px;
+    border-radius: 10%;
+}
+.imagen{
+    position: relative;
+}
+.textoSlide{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    
+    transform: translate(-50%,-50%);
+}
